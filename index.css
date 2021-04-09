@@ -1,0 +1,32 @@
+.rect{
+	position : absolute;
+	width : 50%;
+	height : 50%;
+	top : 25%;
+	left : 25%;
+	background-color : red;
+	z-index : -1;
+	opacity : .5;
+}
+#text_content{
+	font-size : 40px;
+	font-family : calibri;
+}
+.btn{
+	position : absolute;
+	top : 78%;
+	left : 45%;
+	font-size : 25px;
+	padding : 0 10px 0 10px;
+	height : 50px;
+	background-color: red;
+	color : white;
+	border : none;
+}
+.stat{
+	position : absolute;
+	top : 84%;
+	left : 44.5%;
+	display : none;
+	font-size : 25px;
+}
